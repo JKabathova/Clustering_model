@@ -1,5 +1,5 @@
 # Clustering_model
-There are two python notebooks (files with extension .ipynb) containing clustering algorithm.
+There are two python notebooks (files with extension .ipynb) containing clustering algorithm (k-means) along with metrics for evaluation of the model.
 
 # Data
 There is  CSV files contaning data used by the algorithms.
